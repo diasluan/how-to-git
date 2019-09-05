@@ -13,9 +13,14 @@ To install both go to [Git for windows](https://gitforwindows.org/) and download
 **>** Run the downloaded file as Administrator
 ![1](https://user-images.githubusercontent.com/38701790/64282062-efc8c880-cf2a-11e9-8c5d-6d25ed6f982c.png)
 **>** Most of the settings can be left as default, one that might be worth changing is the default editor used by git. It comes with vim pre-selected which uses a paradigm that's different than most of the common text editors and will probably piss you off if you're not used to it. For the rest of this tutorial, I'll be using VS Code, feel free to choose whichever you think is best.
+
  ![2](https://user-images.githubusercontent.com/38701790/64282898-c14bed00-cf2c-11e9-86e2-f02049ae63be.png)
+ 
  Let the installer do its magic and we're done.
+ 
  Say hi to *Git Bash*
+ 
+ 
  ![3](https://user-images.githubusercontent.com/38701790/64283481-ec830c00-cf2d-11e9-962e-7502df5f4a70.png)
 
 And *Git GUI*
